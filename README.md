@@ -1,5 +1,7 @@
 # TwoPoint_AVScanner
 
+AFTER DOWNLOAD YOU CAN DELETE avscan_20251230_002130 INSIDE OF REPORTS FOLDER, ITS JUST A PLACEHOLDER SO THE FOLDER SHOWS UP
+
 A lightweight **heuristic** “antivirus-style” scanner for FiveM resources.
 
 This is **defensive tooling** meant to help you *review* resources and catch obvious red flags
